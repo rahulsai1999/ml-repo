@@ -4,9 +4,11 @@
       <w>imputer</w>
       <w>passthrough</w>
       <w>preprocessing</w>
+      <w>pval</w>
       <w>regressor</w>
       <w>scaler</w>
       <w>sklearn</w>
+      <w>startups</w>
       <w>stdev</w>
     </words>
   </dictionary>
