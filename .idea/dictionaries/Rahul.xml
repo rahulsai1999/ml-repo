@@ -2,7 +2,9 @@
   <dictionary name="Rahul">
     <words>
       <w>imputer</w>
+      <w>linreg</w>
       <w>passthrough</w>
+      <w>polyreg</w>
       <w>preprocessing</w>
       <w>pval</w>
       <w>regressor</w>
